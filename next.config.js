@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hotname: "images.pexels.com",
+        hostname: "images.pexels.com",
         port: "",
         pathname: "/photos/**",
       },
